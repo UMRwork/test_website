@@ -1,0 +1,20 @@
+img {
+    height: 100px;
+    border: 1px solid #000000
+}
+
+iframe {
+    width: 420;
+    height: 270;
+    border: 10px solid #ff1f1f
+}
+
+h1 {
+    color: rgb(255, 0, 0);
+}
+
+body {
+    background: url(images/Nana.gif);
+    background-repeat: no-repeat;
+    background-size: 1780px 1220px;
+}
